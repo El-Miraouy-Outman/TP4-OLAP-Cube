@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "TP4-OLAP-Cube", "TP4-OLAP-Cube\TP4-OLAP-Cube.dwproj", "{BAEF77BB-60AD-4864-8231-D927A6BB7E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEF77BB-60AD-4864-8231-D927A6BB7E0F}.Development|Default.ActiveCfg = Development
+		{BAEF77BB-60AD-4864-8231-D927A6BB7E0F}.Development|Default.Build.0 = Development
+		{BAEF77BB-60AD-4864-8231-D927A6BB7E0F}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC0089A-7D71-4626-99EF-D6EE82B28A75}
+	EndGlobalSection
+EndGlobal
